@@ -1,2 +1,2 @@
 # olamundo
-Aplicação simples de Ola mundo em Pascal Rad Studio XE8 Mobile Multiplataforma
+Aplicação simples de ola mundo em Pascal Delphi Rad Studio XE8 Mobile Multiplataforma
